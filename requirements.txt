@@ -3,3 +3,5 @@ pandas
 yfinance 
 mplfinance
 plotly
+xlsxwriter
+openpyxl
